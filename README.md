@@ -6,7 +6,7 @@ to use :
 git clone https://github.com/netpisto/crypto-telegram-bot/
 
 
-cd crypto-telegram bot
+cd crypto-telegram-bot
 
 
 python main.py
