@@ -5,7 +5,7 @@ import pandas as pd
 import pandas_ta as ta
 from binance.client import Client
 
-bot_id = input("bot id : ")
+bot_id = input("bot http token : ")
 channel_id = input("channel id : ")
 def send_message(msg):
     global bot_id,channel_id
