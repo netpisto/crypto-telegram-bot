@@ -12,8 +12,8 @@ cd crypto-telegram-bot
 python main.py
 
 
-bot http token : 5565060544:AAEvOy37IROZXmxa-YxGujhVMzgsVv39-Hg
+bot http token : 5565060544:AAEvOy37IROZXmxa-YxGujhVMzgsVv39-Hg # i dont care in case you want to use it
 
 
 
-channel id : @jik2200 
+channel id : @jik2200 # i dont care in case you want to use it 
